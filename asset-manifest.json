@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robofriends-jr-to-sr-course/static/css/main.364b38f8.chunk.css",
+    "main.js": "/robofriends-jr-to-sr-course/static/js/main.a11c6d31.chunk.js",
+    "main.js.map": "/robofriends-jr-to-sr-course/static/js/main.a11c6d31.chunk.js.map",
+    "runtime-main.js": "/robofriends-jr-to-sr-course/static/js/runtime-main.f053021c.js",
+    "runtime-main.js.map": "/robofriends-jr-to-sr-course/static/js/runtime-main.f053021c.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robofriends-jr-to-sr-course/static/css/2.31461e4f.chunk.css",
+    "static/js/2.b980cc47.chunk.js": "/robofriends-jr-to-sr-course/static/js/2.b980cc47.chunk.js",
+    "static/js/2.b980cc47.chunk.js.map": "/robofriends-jr-to-sr-course/static/js/2.b980cc47.chunk.js.map",
+    "static/js/3.76cc6ae2.chunk.js": "/robofriends-jr-to-sr-course/static/js/3.76cc6ae2.chunk.js",
+    "static/js/3.76cc6ae2.chunk.js.map": "/robofriends-jr-to-sr-course/static/js/3.76cc6ae2.chunk.js.map",
+    "index.html": "/robofriends-jr-to-sr-course/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robofriends-jr-to-sr-course/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.364b38f8.chunk.css.map": "/robofriends-jr-to-sr-course/static/css/main.364b38f8.chunk.css.map",
+    "static/js/2.b980cc47.chunk.js.LICENSE.txt": "/robofriends-jr-to-sr-course/static/js/2.b980cc47.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robofriends-jr-to-sr-course/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f053021c.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.b980cc47.chunk.js",
+    "static/css/main.364b38f8.chunk.css",
+    "static/js/main.a11c6d31.chunk.js"
+  ]
+}
